@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: Jude-sigma
           outputs: |
-            dist/snake.svg?color_snake=BABABA&color_dots=565c66,6c5673,7F5977,a07ba6,c9b3ce
+            dist/snake.svg?color_snake=%23BABABA&color_dots=%23565c66,%236c5673,%237F5977,%23a07ba6,%23c9b3ce
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

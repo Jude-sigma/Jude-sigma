@@ -47,10 +47,6 @@
 <h2 align="center">Battle Record</h2>
 
 <p align="center">
-  <img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Jude-sigma&show_icons=true&count_private=true&hide_border=true&title_color=7F5977&icon_color=7F5977&text_color=BABABA&bg_color=373A3F" />
-</p>
-
-<p align="center">
   <img alt="streak" src="https://streak-stats.demolab.com?user=Jude-sigma&hide_border=true&background=373A3F&stroke=7F5977&ring=7F5977&fire=7F5977&currStreakLabel=BABABA&sideLabels=BABABA&dates=BABABA&currStreakNum=BABABA&sideNums=BABABA" />
 </p>
 
