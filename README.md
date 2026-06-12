@@ -23,7 +23,7 @@
 
 <br/>
 
-<h2 align="center">⚔️ Cursed Tools / Arsenal</h2>
+<h2 align="center">Cursed Tools / Arsenal</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-373A3F?style=for-the-badge&logo=python&logoColor=BABABA&labelColor=7F5977" />
@@ -44,11 +44,10 @@
 
 <br/>
 
-<h2 align="center">📊 Battle Record</h2>
+<h2 align="center">Battle Record</h2>
 
 <p align="center">
   <img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Jude-sigma&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7F5977&icon_color=7F5977&text_color=BABABA&bg_color=373A3F" />
-  <img height="180" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude-sigma&layout=compact&langs_count=12&hide_border=true&title_color=7F5977&text_color=BABABA&bg_color=373A3F" />
 </p>
 
 <p align="center">
@@ -59,12 +58,6 @@
   <img alt="activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Jude-sigma&bg_color=373A3F&color=BABABA&line=7F5977&point=BABABA&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits%20(last%20year)-687-373A3F?style=for-the-badge&labelColor=7F5977&color=BABABA" />
-  <img src="https://img.shields.io/badge/Commits%20in%202026-615-373A3F?style=for-the-badge&labelColor=7F5977&color=BABABA" />
-  <img src="https://img.shields.io/badge/Trajectory-%E2%86%97%20every%20week-373A3F?style=for-the-badge&labelColor=7F5977&color=BABABA" />
-</p>
-
 <br/>
 
 <picture>
@@ -72,12 +65,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jude-sigma/Jude-sigma/output/snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Jude-sigma/Jude-sigma/output/snake.svg" width="100%" />
 </picture>
-
-<br/>
-
-<p align="center">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=Jude-sigma&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
 
 <br/>
 
