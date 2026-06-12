@@ -23,7 +23,7 @@
 
 <br/>
 
-<h2 align="center">Cursed Tools / Arsenal</h2>
+<h2 align="center">Cursed Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-373A3F?style=for-the-badge&logo=python&logoColor=BABABA&labelColor=7F5977" />
@@ -47,7 +47,7 @@
 <h2 align="center">Battle Record</h2>
 
 <p align="center">
-  <img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Jude-sigma&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7F5977&icon_color=7F5977&text_color=BABABA&bg_color=373A3F" />
+  <img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Jude-sigma&show_icons=true&count_private=true&hide_border=true&title_color=7F5977&icon_color=7F5977&text_color=BABABA&bg_color=373A3F" />
 </p>
 
 <p align="center">
@@ -60,11 +60,9 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jude-sigma/Jude-sigma/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jude-sigma/Jude-sigma/output/snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Jude-sigma/Jude-sigma/output/snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <img alt="snake" width="100%" src="https://raw.githubusercontent.com/Jude-sigma/Jude-sigma/output/snake.svg" />
+</p>
 
 <br/>
 
