@@ -15,7 +15,7 @@
         Hey, I'm Jude
       </h1>
       <h3>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=7F5977&center=false&vCenter=true&width=600&lines=Polyglot+developer.;No+cursed+energy%2C+just+raw+technique.;750+commits+this+year+and+climbing.;Cutting+down+bugs+like+the+Sorcerer+Killer." alt="typing" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=7F5977&center=false&vCenter=true&width=600&lines=Polyglot+developer.;No+cursed+energy%2C+just+raw+technique.;800+commits+this+year+and+climbing.;Cutting+down+bugs+like+the+Sorcerer+Killer." alt="typing" />
       </h3>
     </td>
   </tr>
